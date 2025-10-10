@@ -3,7 +3,7 @@ Official GitHub page for the JohnKopernicus tool.
 
 Why John Kopernicus? Derivates from the online joke *John* as the *owner* or *creator* of something, having their last name being the name of the thing that they made/own and Kopernicus for the Kerbal Space Program mod of the same name, as this tool is intended to KSP modders using Kopernicus to bring their own worlds to reality.
 
-
+Currently being rewriten
 # Utility
 John Kopernicus is currently written in C, it allows a Kopernicus user to easily implement some characteristics into their mod. Only with simple copy-pasting from their configs to make life easier.
 
